@@ -7,10 +7,25 @@ x = 16
 
 console.log(typeof x)
 
-const y:number = 15.3421321312
+const y: number = 15.3421321312
 
 console.log(typeof y)
 
 console.log(y)
 
 console.log(y.toPrecision(3))
+
+// 2 - string
+const firstName: string = "Matheus"
+
+console.log(firstName.toUpperCase())
+
+let fullName: string 
+
+const lastName: string = "Batista"
+
+fullName = firstName + " " + lastName 
+
+console.log(fullName)
+
+console.log(typeof fullName)
