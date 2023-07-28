@@ -45,3 +45,5 @@ let inf = "Teste"
 
 /*  inf = 1
     ann = 1  */
+
+console.log("testando 2")
