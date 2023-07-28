@@ -29,3 +29,19 @@ fullName = firstName + " " + lastName
 console.log(fullName)
 
 console.log(typeof fullName)
+
+// 3 - booleanos
+let a: boolean = false
+console.log(a)
+console.log(typeof a)
+
+a = true
+console.log(a)
+
+// 4 - inference e annotation
+const ann: string = "Teste"
+
+let inf = "Teste"
+
+/*  inf = 1
+    ann = 1  */
