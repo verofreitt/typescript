@@ -47,3 +47,12 @@ let inf = "Teste"
     ann = 1  */
 
 console.log("testando 2")
+
+// tarefa 1
+const num: number = 4;
+
+const numberToString = num.toString()
+
+
+console.log(`eu tenho ${num} irmãos`)
+
